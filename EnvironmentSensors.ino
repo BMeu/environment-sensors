@@ -1,4 +1,4 @@
-#include "lib/CCS811/CCS811.h"
+#include "src/CCS811/CCS811.h"
 #include <LiquidCrystal.h>
 
                               // A13 -> A4
